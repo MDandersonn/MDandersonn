@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![profile views](https://komarev.com/ghpvc/?username=MDandersonn&color=blue)  
 ### ⚡Tech Stack⚡
 <img src="https://img.shields.io/badge/html-F37626?style=for-the-badge&logo=HTML&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/css-3776AB?style=for-the-badge&logo=CSS&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-f4d159?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
  <br>
