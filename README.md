@@ -63,15 +63,14 @@ Here are some ideas to get you started:
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](#)](!!)
-  [![Velog's GitHub stats](#)](!!)
+  [![Velog's GitHub stats](https://www.naver.com)](ss)
+  [![Velog's GitHub stats](https://www.naver.com)](ss)
   
 </div>
  
  <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=#"/></a>&nbsp
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=#"/></a>&nbsp
   <a href="#"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=#"/></a>
 </p>
 <br>
