@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 <br/> 
  <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=white"/>
+ <img src="https://img.shields.io/badge/VirtualBox-183a61?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=ffffff"/>
