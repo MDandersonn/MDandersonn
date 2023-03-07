@@ -45,8 +45,9 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=ffffff"/>
- <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm IDEA&logoColor=ffffff"/> 
+<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff"/>
+
  <br>
 
 
