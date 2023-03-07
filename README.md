@@ -18,15 +18,19 @@ Here are some ideas to get you started:
 
 ![profile views](https://komarev.com/ghpvc/?username=MDandersonn&color=blue)  
 ### ⚡Tech Stack⚡
-  <img src="https://img.shields.io/badge/HTML-F37626?style=for-the-badge&logo=HTML&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=CSS&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/html-F37626?style=for-the-badge&logo=HTML&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/css-3776AB?style=for-the-badge&logo=CSS&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/JavaScript-f4d159?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
+ <br>
+  
 <img src="https://img.shields.io/badge/Java-a80022?style=for-the-badge&logo=Java&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring Boot-f4d159?style=for-the-badge&logo=Spring Boot&logoColor=181717"/>
 <img src="https://img.shields.io/badge/JPA-9916ec?style=for-the-badge&logo=JPA&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
+ <br>
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Oracle-a80022?style=for-the-badge&logo=Oracle&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white"/>
