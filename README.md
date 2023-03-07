@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ![profile views](https://komarev.com/ghpvc/?username=MDandersonn&color=blue)  
 ### ⚡Tech Stack⚡
+  <img src="https://img.shields.io/badge/HTML-F37626?style=for-the-badge&logo=HTML&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=CSS&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/JavaScript-f4d159?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-a80022?style=for-the-badge&logo=Java&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff"/>
