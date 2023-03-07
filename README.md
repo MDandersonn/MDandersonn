@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![profile views](https://komarev.com/ghpvc/?username=MDandersonn&color=blue)  
 ### ⚡Tech Stack⚡
-<img src="https://img.shields.io/badge/HTML-F37626?style=for-the-badge&logo=html&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavScript-f4d159?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
@@ -63,9 +63,8 @@ Here are some ideas to get you started:
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://www.naver.com)](ss)
-  [![Velog's GitHub stats](https://www.naver.com)](ss)
-  
+<!--   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=)](https://velog.io/@)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=)](https://velog.io/@) -->
 </div>
  
  <h3 align="center"> 🧸 Me 🧸 </h3>
