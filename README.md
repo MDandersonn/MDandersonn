@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=white"/>
 
 <br/> 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff"/>
+
 <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=ffffff"/>
- <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=for-the-badge&logo=Eclipse IDE&logoColor=ffffff"/>
-
-<br/> 
-<img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=for-the-badge&logo=Eclipse IDE&logoColor=ffffff"/ 
+ <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/Amazon AWS-ff4f8b?style=for-the-badge&logo=Amazon AWS&logoColor=ffffff"/>
+ 
+ <br>
  <img src="https://img.shields.io/badge/GitHub-a3a3a3?style=for-the-badge&logo=GitHub&logoColor=181717"/>
 <img src="https://img.shields.io/badge/GitHubDesktop-662a81?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff"/>
