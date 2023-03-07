@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=ffffff"/>
  <br>
   
 <img src="https://img.shields.io/badge/Java-a80022?style=for-the-badge&logo=Java&logoColor=ffffff"/>
