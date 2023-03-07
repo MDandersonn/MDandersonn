@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Oracle-4479A1?style=for-the-badge&logo=Oracle&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Oracle-a80022?style=for-the-badge&logo=Oracle&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white"/>
 
 <br/> 
