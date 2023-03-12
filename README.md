@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 #
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MDandersonn&count_private=true&theme=buefy&show_icons=truea&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDandersonn&layout=compact&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MDandersonn&count_private=true&theme=buefy&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDandersonn&layout=compact&theme=vue)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=MDandersonn&theme=dracula&column=6)
