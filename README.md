@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=white"/>
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
- <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
  
+ <br>
+ <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff"/> -->
  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/Vuetify-1867c0?style=for-the-badge&logo=Vuetify&logoColor=ffffff"/>
 <!--  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=ffffff"/> -->
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=ffffff"/>
+
  <br>
 <img src="https://img.shields.io/badge/Java-a80022?style=for-the-badge&logo=Java&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/JSP/Servlet-ff9e0f?style=for-the-badge&logo=JSP/Servlet&logoColor=ffffff"/>
@@ -38,9 +39,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JPA-9916ec?style=for-the-badge&logo=JPA&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=ffffff"/>
- <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=for-the-badge&logo=Eclipse IDE&logoColor=ffffff"/>
+ 
  <br>
+
  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=Oracle&logoColor=ffffff"/>
@@ -51,13 +52,17 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/scikit learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=ffffff"/>
- <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm IDEA&logoColor=ffffff"/> 
-<img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=ffffff"/>
 
  <br>
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=for-the-badge&logo=Eclipse IDE&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm IDEA&logoColor=ffffff"/> 
 
+ <br>
 
 <!--  <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=ffffff"/> -->
  <!--  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff"/> -->
