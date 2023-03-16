@@ -48,15 +48,23 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=ffffff"/>
 <br/> 
- <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=white"/>
- <img src="https://img.shields.io/badge/VirtualBox-183a61?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
+ 
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/scikit learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff"/>
+ <br>
+ 
  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=ffffff"/>
-
+ <br>
+ 
+ <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=white"/>
+ <img src="https://img.shields.io/badge/VirtualBox-183a61?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=ffffff"/>
+ <!--  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff"/> -->
+<!--  <img src="https://img.shields.io/badge/Amazon AWS-ff4f8b?style=for-the-badge&logo=Amazon AWS&logoColor=ffffff"/> -->
+ 
  <br>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=ffffff"/>
@@ -65,9 +73,6 @@ Here are some ideas to get you started:
 
  <br>
 
- <img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=Docker&logoColor=ffffff"/>
- <!--  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=Kubernetes&logoColor=ffffff"/> -->
-<!--  <img src="https://img.shields.io/badge/Amazon AWS-ff4f8b?style=for-the-badge&logo=Amazon AWS&logoColor=ffffff"/> -->
  <img src="https://img.shields.io/badge/GitHub-a3a3a3?style=for-the-badge&logo=GitHub&logoColor=181717"/>
 <img src="https://img.shields.io/badge/GitHubDesktop-662a81?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=181717"/>
